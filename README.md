@@ -21,8 +21,8 @@
 <br/>
 
 <hr/>
-<h1 align="center">Hi 👋, I'm Jagamohan Panda</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Jagamohan Panda</h1>
+<h3 align="center">A passionate Full Stack Web developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagamohan-81&label=Profile%20views&color=0e75b6&style=flat" alt="jagamohan-81" /> </p>
 
