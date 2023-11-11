@@ -14,8 +14,8 @@
 
 
    ![image](https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?size=626&ext=jpg&ga=GA1.2.1382233244.1650354116)
-- 🌱 I’m currently  working as Associate Software Engineer .
-- 💬 Ask me about React-Redux , JavaScript , Mongodb ,MySQL,PostgreSQL ,Bootstrap
+- 🌱 I’m currently  working as Software Development Engineer - 1 .
+- 💬 Ask me about React-Redux , JavaScript , Mongodb ,MySQL,PostgreSQL ,Bootstrap ,Node ,Express ,Next Js
 - 🥅 2023 Goals : Learning More Languages,Technologies,Frameworks and contribute more
 
 <br/>
@@ -30,7 +30,7 @@
 
 <p align="left"> <a href="https://twitter.com/lipunlive" target="blank"><img src="https://img.shields.io/twitter/follow/lipunlive?logo=twitter&style=for-the-badge" alt="lipunlive" /></a> </p>
 
-- 🌱 I’m currently learning Next Js , Java , Spring boot
+- 🌱 I’m currently learning Django framework.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jagamohan-81](https://github.com/Jagamohan-81)
 
