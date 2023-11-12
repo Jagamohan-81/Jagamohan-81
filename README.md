@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **pandajagamohan12@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://jagamohan.panda.vercel.app)
+- 📄 Know about my experiences [Portfolio](https://jagamohan-panda.vercel.app)
 
 - ⚡ Fun fact **24/7 coding**
 
