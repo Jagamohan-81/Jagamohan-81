@@ -1,59 +1,68 @@
-<h1>Hi there 👋,I'm Jagamohan Panda</h1>
-
-<h3>I'm a  full stack web developer specialized in MERN stack, passionate about coding and learning new technologies.Adept at learning, unlearning, and relearning.As a developer, my hunger for learning has increased continuously.I want to learn more and do something meaningful with my learning.</h3>
- 
-
-
-   ![image](https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?size=626&ext=jpg&ga=GA1.2.1382233244.1650354116)
-- 🌱 I’m currently  working as Software Development Engineer - 1 .
-- 💬 Ask me about React-Redux , JavaScript , Mongodb ,MySQL,PostgreSQL ,Bootstrap ,Node ,Express ,Next Js
-- 🥅 2023 Goals : Learning More Languages,Technologies,Frameworks and contribute more
-
-<br/>
-
-<hr/>
-<!-- <h1 align="center">Hi 👋, I'm Jagamohan Panda</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagamohan-81&label=Profile%20views&color=0e75b6&style=flat" alt="jagamohan-81" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagamohan-81" alt="jagamohan-81" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lipunlive" target="blank"><img src="https://img.shields.io/twitter/follow/lipunlive?logo=twitter&style=for-the-badge" alt="lipunlive" /></a> </p>
-
-- 🌱 I’m currently learning Zustand and Tanstack.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Jagamohan-81](https://github.com/Jagamohan-81)
-
-- 📝 I regularly write articles on [https://medium.com/@lipunlive12](https://medium.com/@lipunlive12)
-
-- 💬 Ask me about **Node js,Express js,React,MongoDB,HTML,CSS,**
-
-- 📫 How to reach me **pandajagamohan12@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://jagamohan-panda.vercel.app)
-
-- ⚡ Fun fact **24/7 coding**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lipunlive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lipunlive" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jagamohan-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagamohan-panda" height="30" width="40" /></a>
-<a href="https://medium.com/@lipunlive12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lipunlive12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pandajagamohan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandajagamohan12" height="30" width="40" /></a>
-<a href="mailto:pandajagamohan12@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/40/000000/gmail-new.png"/  alt="jp_email" height="40" width="40" ></a>
+<!-- Profile Logo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/97526535?v=4" width="120" alt="Jagamohan Panda Logo"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Jagamohan Panda 👋</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagamohan-81&show_icons=true&locale=en&layout=compact" alt="jagamohan-81" /></p>
+<p align="center">
+  <b>Software Developer | MERN & MEAN Stack | Python | Next.js | SQL & NoSQL Enthusiast</b>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagamohan-81&show_icons=true&locale=en" alt="jagamohan-81" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagamohan-81&" alt="jagamohan-81" /></p>
+### 💼 About Me
 
+- 👨‍💻 Passionate software developer experienced in:
+  - **MERN Stack:** MongoDB, Express.js, React.js, Node.js
+  - **MEAN Stack:** MongoDB, Express.js, Angular, Node.js
+  - **Python** for scripting and backend
+  - **Next.js** for modern web apps
+  - **SQL & NoSQL** databases
+- 📱 **Creator of Sportsove** – a native app for sports lovers
+
+---
+
+### 🚀 Tech Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=flat)
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagamohan-81&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagamohan-81&theme=radical" alt="GitHub Streak" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Jagamohan-81" alt="Commit chart"/>
+</p>
+
+---
+
+### 🌟 Featured Project
+
+- 🚀 **Sportsove** – A native app for sports enthusiasts.  
+  _[Add a description, GitHub repo, or app store link if you want!]_
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagamohan-panda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jagamohan-panda.vercel.app)
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
