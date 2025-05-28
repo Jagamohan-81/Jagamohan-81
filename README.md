@@ -39,14 +39,12 @@
 
 ### 📈 GitHub Stats & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagamohan-81&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagamohan-81&theme=radical" alt="GitHub Streak" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/Jagamohan-81" alt="Commit chart"/>
-</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagamohan-81&show_icons=true&locale=en&layout=compact" alt="jagamohan-81" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagamohan-81&show_icons=true&locale=en" alt="jagamohan-81" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagamohan-81&" alt="jagamohan-81" /></p>
 ---
 
 ### 🌟 Featured Project
